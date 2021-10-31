@@ -95,6 +95,7 @@ letter:
 primary source:
 - https://austinhuang.me/barinsta.html
 - https://news.ycombinator.com/item?id=27969379
+- https://codeberg.org/avalos/barinsta/commit/32ca849cf41b4b9465958763ee8890b520a9e1f1
 
 journalism:
 
