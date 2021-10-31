@@ -10,15 +10,22 @@ letters from
 [Meta Platforms, Inc.](https://en.wikipedia.org/wiki/Meta_Platforms)
 (formerly Facebook, Inc.)
 
-> More awesome lists: https://awesome.re
-
 > A cease and desist letter is a document sent to an individual or business to stop allegedly illegal activity.
 
 > Meta Platforms, Inc., doing business as Meta (formerly Facebook, Inc.), is an American multinational technology conglomerate holding company based in Menlo Park, California.
 
+> More awesome lists: https://awesome.re
+
+## Quick Start Guide
+Browse through
+1. the [Barinsta](#barinsta) case study,
+2. the [primary source](https://austinhuang.me/barinsta.html),
+3. the [cease and desist letter](https://firebot-prod-media.s3.amazonaws.com/email-attachments/9ceab4da-d016-4524-bffc-87519d5e2cce/Barinsta_-_C26D.pdf), and
+4. the [comments](https://github.com/austinhuang0131/austinhuang0131/issues/2) regarding this issue.
 
 
-# Content
+
+# Contents
 - [2019](#2019)
 - [2020](#2020)
 - [2021](#2021)
