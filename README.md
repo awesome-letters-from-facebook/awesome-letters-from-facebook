@@ -16,7 +16,7 @@ letters from
 
 > Meta Platforms, Inc., doing business as Meta (formerly Facebook, Inc.), is an American multinational technology conglomerate holding company based in Menlo Park, California.
 
-> More awesome lists: https://awesome.re
+
 
 ## Quick Start Guide
 Browse through
@@ -103,7 +103,7 @@ journalism:
 
 
 # Unfollow Everything
-> Unfollow Everything automates actions on Facebook, including mass following and unfollowing of Friends, Pages, and Groups.
+> Unfollow Everything automates actions on Facebook, including the mass following and unfollowing of Friends, Pages, and Groups.
 
 letter:
 - https://louisbarclay.notion.site/Unfollow-Everything-cease-and-desist-letter-from-Facebook-ea219169421b457bb7ce010b7bf9ce1f
@@ -120,8 +120,8 @@ journalism:
 
 
 
-# Swipe for Facebook and Simple Social Browser
-> Swipe for Facebook and Simple Social Browser includes access to social networks without the need to install their battery intensive apps.
+# Swipe for Facebook (Simple Social Browser)
+> Swipe for Facebook (Simple Social Browser) includes access to social networks without the need to install their battery-intensive apps.
 
 letter:
 
@@ -140,7 +140,7 @@ journalism:
 
 
 # AlgorithmWatch
-> AlgorithmWatch is a non-profit research and advocacy organization that is committed to watch, unpack and analyze automated decision-making (ADM) systems and their impact on society.
+> AlgorithmWatch is a non-profit research and advocacy organization that is committed to watching, unpacking, and analyzing automated decision-making (ADM) systems and their impact on society.
 
 letter:
 - https://algorithmwatch.org/en/wp-content/uploads/2021/09/Open_Letter_to_European_Lawmakers_15_sept_21.pdf
