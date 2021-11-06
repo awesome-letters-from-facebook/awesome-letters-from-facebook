@@ -75,6 +75,19 @@ journalism:
 
 
 
+# Who Targets Me
+> Learn about the political ads targeting you, expose their effects and protect democracy.
+
+letter:
+
+primary source:
+
+journalism:
+- https://www.theguardian.com/technology/2019/jan/27/facebook-restricts-campaigners-ability-to-check-ads-for-political-transparency
+- https://www.propublica.org/article/facebook-blocks-ad-transparency-tools
+
+
+
 # 2020
 
 
