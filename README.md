@@ -62,6 +62,19 @@ journalism:
 
 
 
+# Facebook Political Ad Collector
+> Let the public see exactly how Facebook users are being targeted by advertisers.
+
+letter:
+
+primary source:
+- https://www.propublica.org/article/facebook-blocks-ad-transparency-tools
+
+journalism:
+- https://mashable.com/article/facebook-ads-transparency-propublica
+
+
+
 # 2020
 
 
