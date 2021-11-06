@@ -144,8 +144,10 @@ letter:
 primary source:
 - https://austinhuang.me/barinsta.html
 - https://news.ycombinator.com/item?id=27969379
+- https://gitlab.com/fdroid/fdroiddata/-/commit/4d89ca7b1003dcb5bb7cb13b5783c15e46f2ff04
 
 journalism:
+- https://blog.avalos.me/2021/08/14/barinsta
 
 
 
