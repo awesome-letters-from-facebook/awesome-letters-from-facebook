@@ -28,6 +28,7 @@ Browse through
 
 
 # Contents
+- [2018](#2018)
 - [2019](#2019)
 - [2020](#2020)
 - [2021](#2021)
@@ -37,7 +38,27 @@ Browse through
 
 
 
+# 2018
+
+
+
 # 2019
+
+
+
+# Ad Analysis for Facebook
+> See how Facebook helps advertisers micro-target you. Let Ad Analysis for Facebook help you understand how Facebook delivers the advertising you see and go beyond your filter bubble to find ads you don’t see.
+
+letter:
+- https://blog.mozilla.org/wp-content/uploads/2019/01/Mozilla-letter-to-EU-Commission-on-Facebook-transparency-31-01-19-1.pdf
+- https://blog.mozilla.org/en/mozilla/mozilla-raises-concerns-over-facebooks-lack-of-transparency
+
+primary source:
+- https://blog.mozilla.org/netpolicy/2018/10/18/getting-serious-about-political-ad-transparency-with-ad-analysis-for-facebook
+
+journalism:
+- https://mashable.com/article/facebook-ads-transparency-propublica
+- https://www.propublica.org/article/facebook-blocks-ad-transparency-tools
 
 
 
