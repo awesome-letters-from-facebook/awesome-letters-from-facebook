@@ -135,7 +135,7 @@ journalism:
 
 
 # Barinsta
-> Barinsta collects and displays content and user information from Instagram.
+> Barinsta is a beautiful client that allows you to browse Instagram while removing most of the annoyances (ads, suggestions, useless tabs) and giving you more control of your data.
 
 letter: 
 - https://firebot-prod-media.s3.amazonaws.com/email-attachments/9ceab4da-d016-4524-bffc-87519d5e2cce/Barinsta_-_C26D.pdf
